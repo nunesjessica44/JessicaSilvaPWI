@@ -1,2 +1,3 @@
-# JessicaSilvaPWI
-Projeto para salvar atividades da matéria Programação Web 1. 
+# Jessica Silva
+Apaixonada por`:heart: exatas :heart: , iniciou os estudos cursando Assistente Administrativo no Senai Jandira, como sempre gostou de ajudar as pessoas, e foi a oportunidade que teve na época, cursou Bacharelado em enfermagem. Durante a graduação, percebeu que não possuía paixão atuando como enfermeira :confused:, então continuou a faculdade, paralelamente a cursos livres sobre economia e finanças, quando conheceu a EDUCAFROtech.
+Realizando cursos na instituição teve contato com algumas linguagens de programação como C#, JS, HTML e CSS. Se viu apaixonada pela    lógica de programação :two_hearts:, e a cada linguagem desvendada se encontrava mais, atualmente está no primeiro semestre do curso técnico de desenvolvimento de sistemas na ETEC e atua como Solutions Assistant na everis brasil. :grinning: :sunglasses: 
