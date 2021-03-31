@@ -1,0 +1,28 @@
+a:visited {
+    color: rgb(88, 11, 80);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover { /*aplica quando o objeto é clicado*/
+    color: rgb(187, 115, 235);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active { /*aplica quando passo o mouse em cima*/
+    color:rgb(0, 255, 76);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  a {
+    color: rgb(0, 60, 255);
+    background: rgb(248, 82, 185);
+    padding: 2px 4px 6px 8px;
+    margin: 10px 5px;
+    border-left: 1px dotted;
+    border-top: 3px groove;
+    border-bottom: 4px double;
+    border-right: 2px solid;
+  }
