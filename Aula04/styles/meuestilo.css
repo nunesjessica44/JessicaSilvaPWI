@@ -1,0 +1,21 @@
+h1 {
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: green;
+    color: yellow;
+    text-align: justify;
+}
+
+@media screen and (width: 3500px){ /* quando chegar a essa medida aplicar filtro */
+    body {
+        color: white;
+    }
+}
+
+img {
+    width: 50%; 
+    padding-left: 25%;   
+}
