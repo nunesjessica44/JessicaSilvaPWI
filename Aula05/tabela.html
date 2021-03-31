@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <title>Tabelas</title>
+        <link rel="stylesheet" href="style/tabela.css">
+    </head>
+    <body>
+        <table> 
+            <tr> <!-- table row (linha)-->
+                <th class="titulo">Produtos</th> <!-- t. head (cabeçalho)-->
+                <th class="titulo">Preço</th>
+                <th class="titulo">Código</th>
+
+            </tr>
+            <tr>
+                <td>Biscoito</td> <!--t. data (dados em inglês) que representa os dados da coluna -->
+                <td>R$ 1,50</td>
+                <td>001</td>
+            </tr>
+            <tr>
+                <td>Salgadinho</td>
+                <td>R$ 2,00</td>
+                <td>002</td>
+            </tr>
+            <tr>
+                <td>Salame (KG)</td>
+                <td>R$ 10,00</td>
+                <td>003</td>
+            </tr>
+                <td rowspan="2" class="mesclada">CONTATO</td>
+                <!--Rowspan ele vai mesclar o elemento da 
+                linha de cima com a linha debaixo. Se houver 
+                algum elemento na linha debaixo ele será movido
+                para a direita causando a impressão de mesclagem-->
+                <td class="titulo">ENDEREÇO:</td>
+                <td class="titulo">TELEFONE:</td>
+            </tr>
+            <tr>
+                <td> Rua da esquina</td>
+                <td> (11) 2222-3333</td>
+            </tr>
+            <tr>
+                <td colspan="3" class="mesclada">Mercado da esquina</td> 
+                <!-- colspan é o atributo para ocupar
+                um certo número de colunas, passando a 
+                impressão de célula mesclada entre as colunas -->           
+            </tr>
+        </table>
+        
+    </body>
+</html>

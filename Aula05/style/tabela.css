@@ -1,0 +1,28 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 2px dotted rgb(224, 127, 144);
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {/*deixa tabela zebrada*/
+    background-color: #f5f1f1;
+  }
+  /* odd = impar 
+  even = par */
+
+  .titulo{
+    color:rgb(224, 127, 144);
+  }
+
+  .mesclada{
+    text-align: center;
+    color: rgb(233, 105, 128);
+  }
+
+  
